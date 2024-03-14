@@ -1,0 +1,6 @@
+
+/.idea
+*.pyc
+/frontent/node_modules
+/backend/.idea
+/frontent/.idea
